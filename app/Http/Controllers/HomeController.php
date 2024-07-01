@@ -9,6 +9,12 @@ class HomeController extends Controller
     function index(){
         return view('index');
     }
+
+
+
+    function indexadmin(){
+        return view('Admin.index');
+    }
     function about(){
         return view('about');
     }
@@ -17,5 +23,14 @@ class HomeController extends Controller
     }
     function pricing(){
         return view('pricing');
+    }
+    function benifit(){
+        return view('benifit');
+    }
+    function contact(){
+        return view('contact');
+    }
+    function testimonial(){
+        return view('testimonial');
     }
 }

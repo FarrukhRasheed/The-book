@@ -51,7 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h1>
 							<a class="navbar-brand" href="index.html">Author
 								<div class="img-logo">
-									<img class="img-responsive" src="images/logo2.png" alt="" />
+									<img class="img-responsive" src="dashboard-asset/images/logo2.png" alt="" />
 								</div>
 							</a>
 						</h1>
@@ -76,13 +76,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<a class="page-scroll scroll" href="pricing">Pricing</a>
 							</li>
 							<li>
-								<a class="page-scroll scroll" href="benefit">Benefits</a>
+								<a class="page-scroll scroll" href="benifit">Benefits</a>
 							</li>
 							<li>
 								<a class="page-scroll scroll" href="testimonial">Testimonials</a>
 							</li>
 							<li>
-								<a class="page-scroll scroll" href="gallery">Gallery</a>
+								<a class="page-scroll scroll" href="library">Library</a>
 							</li>
 							<li>
 								<a class="page-scroll scroll" href="contact">Contact Me</a>

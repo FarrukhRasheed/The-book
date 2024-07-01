@@ -5,7 +5,7 @@
             <h3>
                 <a href="index.html">Author
                     <div class="img-logo2">
-                        <img class="img-responsive" src="images/logo2.png" alt="" />
+                        <img class="img-responsive" src="asset/images/logo2.png" alt="" />
                     </div>
                 </a>
             </h3>
